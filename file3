@@ -1,0 +1,4 @@
+if [ 2 < 3 ]
+then
+printf "true"
+fi
